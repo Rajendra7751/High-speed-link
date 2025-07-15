@@ -1,0 +1,5 @@
+aiohttp
+pyrogram
+tgcrypto
+pymongo
+python-dotenv
